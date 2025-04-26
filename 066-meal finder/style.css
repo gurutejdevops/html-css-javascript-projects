@@ -15,7 +15,7 @@
 body {
   background-color: var(--main-color);
   color: var(--light-color);
-  font-family: "Akaya Telivigala", cursive;
+  font-family: "Akaya Telivigala", cursive; 
   margin: 0;
 }
 
