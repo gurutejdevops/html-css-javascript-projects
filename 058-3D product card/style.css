@@ -13,7 +13,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   overflow: hidden;
-  perspective: 1000px;
+  perspective: 1000px; 
 }
 
 .container {
